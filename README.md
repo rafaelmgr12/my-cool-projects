@@ -36,7 +36,7 @@
 * [The Way to Go](https://github.com/rafaelmgr12/the-way-to-go)
 * [Gin API REST](https://github.com/rafaelmgr12/gin-api-rest)
 * [Alurafood MS](https://github.com/rafaelmgr12/alurafood-ms)
-* [Java Desing Pattern](https://github.com/rafaelmgr12/java-design-patterns)
+* [Java Design Pattern](https://github.com/rafaelmgr12/java-design-patterns)
 * [First IaC](https://github.com/rafaelmgr12/first-iac)
 * [Alura React Auth](https://github.com/rafaelmgr12/alura-react-auth)
 * [Node TDD and Solid](https://github.com/rafaelmgr12/node-tdd-solid)
